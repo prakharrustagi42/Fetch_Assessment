@@ -1,7 +1,7 @@
 -- Go Through the Ipynb file to understand the Transformation done on data . ( Receipts table was exploded using RewardsItemListColumn to get brand information)
 -- With the data model taken we can answer more than 2 questions just by using a window function and then taking the
 --row number 1. As columns like the total spent , purchase item quantity is going to remain the same. 
-
+-- MYSQL was used for the Queries
 
 
 -- Q1) When considering average spend from receipts with 'rewardsReceiptStatus’ of ‘Accepted’ or ‘Rejected’, which is greater?
