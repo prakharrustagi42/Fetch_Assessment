@@ -1,3 +1,5 @@
+-- 3 QUESTIONS ARE ANSWERED
+
 -- Q1) When considering average spend from receipts with 'rewardsReceiptStatus’ of ‘Accepted’ or ‘Rejected’, which is greater?
 
 
