@@ -1,4 +1,4 @@
--- 3 QUESTIONS ARE ANSWERED
+-- 3 QUESTIONS ARE ANSWERED -- MYsql is used for this section
 
 -- Q1) When considering average spend from receipts with 'rewardsReceiptStatus’ of ‘Accepted’ or ‘Rejected’, which is greater?
 
