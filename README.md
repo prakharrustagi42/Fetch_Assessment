@@ -1,5 +1,6 @@
 # Fetch_Assessment
 This Repository Contains the assessment for Fetch Rewards Coding Exercise - Analytics Engineer
+Link for assessment : https://fetch-hiring.s3.amazonaws.com/analytics-engineer/ineeddata-data-modeling/data-modeling.html
 
 Q1) Review unstructured JSON data and diagram a new structured relational data model -- REFER to ER_DIAGRAM.pdf
 
